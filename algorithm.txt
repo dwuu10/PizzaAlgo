@@ -1,3 +1,4 @@
 1. decide which business to order from
+1a. if business is dominos, say "overpriced"
 2. decide which type of pizza to order
 3. testing some stuff
